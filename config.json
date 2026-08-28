@@ -1,0 +1,6 @@
+{
+  "poll_interval_seconds": 5,
+  "idle_threshold_seconds": 60,
+  "daily_limit_minutes": 120,
+  "port": 5757
+}

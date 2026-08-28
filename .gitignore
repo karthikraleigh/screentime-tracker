@@ -1,0 +1,12 @@
+# Local data — personal browsing/usage history, do not commit
+screentime.db
+cache/
+*.sqlite
+*.sqlite-wal
+*.sqlite-shm
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
